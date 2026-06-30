@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn==1.8.0
+matplotlib
+seaborn
+jupyter
+ipykernel
+pyarrow
+fastapi
+uvicorn
+pydantic
+joblib
+python-dotenv
